@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>hacktiv8</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        h1 {
+              text-align: center;
+              font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+             }
+      button {
+            border: none;
+            outline: 0;
+            display: inline-block;
+            padding: 8px;
+            color: white;
+            background-color: #000;
+            text-align: center;
+            cursor: pointer;
+            width: 100%;
+            font-size: 18px;
+            }           
+     img {
+        height: 200px;
+        border-radius: 50%;
+            }
+     .ama {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            max-width: defult;
+            margin: auto;
+            text-align: center;
+            }
+    h3 {
+             color: grey;
+            font-size: 18px;
+    }
+    a {
+             text-decoration: none;
+             font-size: 25px;
+             color: black;
+            }
+    </style>
+</head>
+<body>
+        <h1>Faris Muamah</h1>
+    <div class="ama">
+        <img src="ama.jpg" alt="ama">
+        <h3>Java Script student</h3>
+
+        <a href="#"><i class="fa fa-twitter"></i></a> <br>
+        <a href="#"><i class="fa fa-linkedin"></i></a> <br>
+        <a href="#"><i class="fa fa-facebook"></i></a> <br>
+        <ul>    
+            <li><a href="https://github.com/FarisMuamah">Github</a></li>
+            <li> Gmail </li>
+        </ul>
+        <p><button>Contact</button></p> 
+    </div>
+</body>
+</html>
